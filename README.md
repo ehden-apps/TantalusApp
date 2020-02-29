@@ -1,2 +1,2 @@
 # TantalusApp
-Tool to compare to vocabulary versions
+Tool to compare two vocabulary versions
