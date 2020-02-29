@@ -1,0 +1,13 @@
+name: Tantalus
+title: Tantalus
+username:
+account: mi-erasmusmc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 358739
+bundleId: 2331727
+url: https://mi-erasmusmc.shinyapps.io/Tantalus/
+when: 1566146767.56218
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/report/missingSummary.html
